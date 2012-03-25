@@ -1,0 +1,2 @@
+I am going to upgrade JSMin.cs (found in multiple wild open source projects) to conform to
+Douglas Crockford's more recent updates to the jsmin.c program.
